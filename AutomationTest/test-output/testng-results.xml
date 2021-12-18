@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="18" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[Error Msg occure if User enter correct userId  and  wrong Password]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[Entring  Only Correct UserID]]>
+    </line>
+    <line>
+      <![CDATA[Error Msg occure if user enter only correct UserID]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[entering UseriD and Password]]>
+    </line>
+    <line>
+      <![CDATA[Entering  Correct Password]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pin]]>
+    </line>
+    <line>
+      <![CDATA[Validating UserID]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[logging out..]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[Error Msg occure if User enter correct userId  and  wrong Password]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[Entring  Only Correct UserID]]>
+    </line>
+    <line>
+      <![CDATA[Error Msg occure if user enter only correct UserID]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+    <line>
+      <![CDATA[Initailising browser]]>
+    </line>
+    <line>
+      <![CDATA[entering UseriD and Password]]>
+    </line>
+    <line>
+      <![CDATA[Entering  Correct Password]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pin]]>
+    </line>
+    <line>
+      <![CDATA[Validating UserID]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[logging out..]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-12-15T11:42:08 IST" name="Suite" finished-at="2021-12-15T11:44:15 IST" duration-ms="127258">
+    <groups>
+    </groups>
+    <test started-at="2021-12-15T11:42:08 IST" name="Test1" finished-at="2021-12-15T11:43:06 IST" duration-ms="58399">
+      <class name="TestClass.Kite_App_Test3">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test3@741a8937]" started-at="2021-12-15T11:42:08 IST" name="launchBrowser" finished-at="2021-12-15T11:42:18 IST" duration-ms="9928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test3@741a8937]" started-at="2021-12-15T11:42:18 IST" name="loginToKite" finished-at="2021-12-15T11:42:21 IST" duration-ms="3564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="validateUserNameMsg()[pri:0, instance:TestClass.Kite_App_Test3@741a8937]" started-at="2021-12-15T11:42:21 IST" name="validateUserNameMsg" finished-at="2021-12-15T11:42:24 IST" duration-ms="3150" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Error Msg occure if User enter correct userId  and  wrong Password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserNameMsg -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test3@741a8937]" started-at="2021-12-15T11:42:25 IST" name="CloseBrowser" finished-at="2021-12-15T11:42:25 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test3 -->
+      <class name="TestClass.Kite_App_Test2">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test2@1b2abca6]" started-at="2021-12-15T11:42:25 IST" name="launchBrowser" finished-at="2021-12-15T11:42:35 IST" duration-ms="9557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test2@1b2abca6]" started-at="2021-12-15T11:42:35 IST" name="loginToKite" finished-at="2021-12-15T11:42:36 IST" duration-ms="1487" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entring  Only Correct UserID]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="validatePasswordErrorMsg()[pri:0, instance:TestClass.Kite_App_Test2@1b2abca6]" started-at="2021-12-15T11:42:36 IST" name="validatePasswordErrorMsg" finished-at="2021-12-15T11:42:39 IST" duration-ms="2113" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Error Msg occure if user enter only correct UserID]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePasswordErrorMsg -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test2@1b2abca6]" started-at="2021-12-15T11:42:39 IST" name="CloseBrowser" finished-at="2021-12-15T11:42:39 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test2 -->
+      <class name="TestClass.Kite_App_Test1">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test1@d5b810e]" started-at="2021-12-15T11:42:39 IST" name="launchBrowser" finished-at="2021-12-15T11:42:46 IST" duration-ms="7168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test1@d5b810e]" started-at="2021-12-15T11:42:46 IST" name="loginToKite" finished-at="2021-12-15T11:42:54 IST" duration-ms="7183" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[entering UseriD and Password]]>
+            </line>
+            <line>
+              <![CDATA[Entering  Correct Password]]>
+            </line>
+            <line>
+              <![CDATA[Entering Pin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="ValidateUserID()[pri:0, instance:TestClass.Kite_App_Test1@d5b810e]" started-at="2021-12-15T11:42:54 IST" name="ValidateUserID" finished-at="2021-12-15T11:42:59 IST" duration-ms="5386" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating UserID]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserID -->
+        <test-method is-config="true" signature="LogOutFromKite()[pri:0, instance:TestClass.Kite_App_Test1@d5b810e]" started-at="2021-12-15T11:43:00 IST" name="LogOutFromKite" finished-at="2021-12-15T11:43:05 IST" duration-ms="5656" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOutFromKite -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test1@d5b810e]" started-at="2021-12-15T11:43:05 IST" name="CloseBrowser" finished-at="2021-12-15T11:43:06 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2021-12-15T11:43:06 IST" name="Test2" finished-at="2021-12-15T11:44:15 IST" duration-ms="68547">
+      <class name="TestClass.Kite_App_Test3">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test3@1b11171f]" started-at="2021-12-15T11:43:06 IST" name="launchBrowser" finished-at="2021-12-15T11:43:18 IST" duration-ms="11505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test3@1b11171f]" started-at="2021-12-15T11:43:18 IST" name="loginToKite" finished-at="2021-12-15T11:43:21 IST" duration-ms="3434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="validateUserNameMsg()[pri:0, instance:TestClass.Kite_App_Test3@1b11171f]" started-at="2021-12-15T11:43:21 IST" name="validateUserNameMsg" finished-at="2021-12-15T11:43:24 IST" duration-ms="3130" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Error Msg occure if User enter correct userId  and  wrong Password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserNameMsg -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test3@1b11171f]" started-at="2021-12-15T11:43:25 IST" name="CloseBrowser" finished-at="2021-12-15T11:43:27 IST" duration-ms="2635" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test3 -->
+      <class name="TestClass.Kite_App_Test2">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test2@1151e434]" started-at="2021-12-15T11:43:27 IST" name="launchBrowser" finished-at="2021-12-15T11:43:38 IST" duration-ms="10457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test2@1151e434]" started-at="2021-12-15T11:43:38 IST" name="loginToKite" finished-at="2021-12-15T11:43:39 IST" duration-ms="1567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entring  Only Correct UserID]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="validatePasswordErrorMsg()[pri:0, instance:TestClass.Kite_App_Test2@1151e434]" started-at="2021-12-15T11:43:39 IST" name="validatePasswordErrorMsg" finished-at="2021-12-15T11:43:41 IST" duration-ms="2048" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Error Msg occure if user enter only correct UserID]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePasswordErrorMsg -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test2@1151e434]" started-at="2021-12-15T11:43:42 IST" name="CloseBrowser" finished-at="2021-12-15T11:43:44 IST" duration-ms="2192" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test2 -->
+      <class name="TestClass.Kite_App_Test1">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestClass.Kite_App_Test1@2dc54ad4]" started-at="2021-12-15T11:43:44 IST" name="launchBrowser" finished-at="2021-12-15T11:43:54 IST" duration-ms="10156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initailising browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:TestClass.Kite_App_Test1@2dc54ad4]" started-at="2021-12-15T11:43:54 IST" name="loginToKite" finished-at="2021-12-15T11:44:04 IST" duration-ms="9441" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[entering UseriD and Password]]>
+            </line>
+            <line>
+              <![CDATA[Entering  Correct Password]]>
+            </line>
+            <line>
+              <![CDATA[Entering Pin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="ValidateUserID()[pri:0, instance:TestClass.Kite_App_Test1@2dc54ad4]" started-at="2021-12-15T11:44:04 IST" name="ValidateUserID" finished-at="2021-12-15T11:44:07 IST" duration-ms="3160" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating UserID]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserID -->
+        <test-method is-config="true" signature="LogOutFromKite()[pri:0, instance:TestClass.Kite_App_Test1@2dc54ad4]" started-at="2021-12-15T11:44:07 IST" name="LogOutFromKite" finished-at="2021-12-15T11:44:13 IST" duration-ms="5516" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOutFromKite -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.Kite_App_Test1@2dc54ad4]" started-at="2021-12-15T11:44:13 IST" name="CloseBrowser" finished-at="2021-12-15T11:44:15 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.Kite_App_Test1 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
